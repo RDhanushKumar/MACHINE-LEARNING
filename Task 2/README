@@ -1,0 +1,4 @@
+Dear Students,
+For a given dataset: (1,1.2), (2,1.9), (3,3.2)
+Find the line which fits the data using maximum likelihood function. 
+Please take beta = 1; therefore you need to find only w (i.e. intercept and slope only).
